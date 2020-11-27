@@ -1,6 +1,9 @@
 #DB
 db.sqlite3
 
+
+Bestoon/__pycache__/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
